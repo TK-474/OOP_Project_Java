@@ -1,0 +1,6 @@
+Beverages: 
+1. Pepsi MEDIUM. Rs.20.0
+
+
+Total: 
+Rs.20.0
